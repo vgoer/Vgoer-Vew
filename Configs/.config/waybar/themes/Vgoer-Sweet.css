@@ -8,3 +8,22 @@
 
 @define-color wb-hvr-bg #3751FF;
 @define-color wb-hvr-fg #FFFFFF;
+
+body {
+    background-color: #000;
+}
+
+.main {
+    background-color: #1D2D50;
+    color: #FFF;
+}
+
+.waybar-active {
+    background-color: #007BFF;
+    color: #FFF;
+}
+
+.waybar-hover {
+    background-color: #3751FF;
+    color: #FFF;
+}
