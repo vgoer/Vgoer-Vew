@@ -1,5 +1,6 @@
-exec = gsettings set org.gnome.desktop.interface icon-theme 'Tela-circle-pink'
-exec = gsettings set org.gnome.desktop.interface gtk-theme 'Rose-Pine'
+$HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
+exec = gsettings set org.gnome.desktop.interface icon-theme 'Vgoer-Sweet-pink'
+exec = gsettings set org.gnome.desktop.interface gtk-theme 'Vgoer-Sweet'
 exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 general {
     gaps_in = 3
