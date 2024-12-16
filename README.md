@@ -6,7 +6,9 @@
 <div align = center><img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyde_banner.png"><br><br></div>
 
 > [!IMPORTANT]
+> I modified this theme myself.
 > This is not a standalone theme, needs [HyDe](https://github.com/prasanthrangan/hyprdots) installed...
+>
 
 ![t1](./screenshots/ss_1.png)
 ![t2](./screenshots/ss_2.png)
@@ -15,7 +17,7 @@
 
 ## Installation
 ```sh
-Hyde theme import "Vanta Black" https://github.com/rishav12s/Vanta-Black
+Hyde theme import "Vanta Black" https://github.com/vgoer/Vgoer-Vew/tree/Vanta-Black
 ```
 or 
 ```sh
